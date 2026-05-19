@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "294793194612",
+    "project_id": "sukar-d8c7d",
+    "storage_bucket": "sukar-d8c7d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294793194612:android:c95fc2c15332556880b521",
+        "android_client_info": {
+          "package_name": "com.example.sukar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGgdxCTrD5Cfi7-xfYTbk7v_l6GlaNYwg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
