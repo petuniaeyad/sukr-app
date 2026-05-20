@@ -1,0 +1,32 @@
+class RoutesString {
+  static const String splashScreen = '/';
+  static const String introScreen = '/introScreen';
+  static const String login = '/login';
+  static const String signUp = '/signUp';
+  static const String userType = '/userType';
+  static const String childInfo = '/childInfo';
+  static const String childProfile = '/childProfile';
+  static const String shareProfile = '/shareProfile';
+  static const String homescreen = '/homescreen';
+  static const String settings = '/settings';
+  static const String profile = '/profile';
+  static const String changePassword = '/changePassword';
+  static const String deactivateAccount = '/deactivateAccount';
+  static const String childpersonalprofilepage = '/childpersonalprofilepage';
+  static const String medicationmanagementpage = '/medicationmanagementpage';
+  static const String mealmanagementpage = '/mealmanagementpage';
+  static const String emergencyinstructionspage = '/emergencyinstructionspage';
+  static const String lowbloodsugarpage = '/lowbloodsugarpage';
+  static const String highbloodsugarpage = '/highbloodsugarpage';
+  static const String lossofconsciousnesspage = '/lossofconsciousnesspage';
+  static const String requestforhelppage = '/requestforhelppage';
+  static const String exercisePage = '/exercisePage';
+  static const String exercisePage2 = '/exercisePage2';
+  static const String exercisePage3 = '/exercisePage3';
+  static const String chatScreen = '/chatScreen';
+  static const String chatListScreen = '/chatListScreen';
+  static const String chatPotScreen = '/chatPotScreen';
+  static const String privacypolicypage = '/privacypolicypage';
+  static const String termsandconditionspage = '/termsandconditionspage';
+  static const String addDoseOfInsulinPage = '/addDoseOfInsulinPage';
+}
